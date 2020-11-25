@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this just a regular repo 👋
 # [williamsl.tech](https://williamsl.tech/)
 
 <!--
