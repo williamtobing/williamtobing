@@ -34,7 +34,7 @@ Just like any other usual software developers.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=williamtobing.williamtobing) 
 <br />
-But amounts ordinary. Okay I think that's all.
+But amounts ordinary. Okay, I think that's all.
 <br />
 Stay healthy, stay safe, stay on the right side.
 
