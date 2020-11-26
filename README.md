@@ -1,6 +1,14 @@
-### Hi there, this just a regular repo. So, welcome to my usual repo.
+## Hi there, this just a regular repo. So, welcome to my usual repo.
 
 [![W|Site](https://res.cloudinary.com/dox0nkwax/image/upload/v1606375628/williamsl.tech_hzgblu.png)](https://williamsl.tech/)
+
+And by the way, let me introduce myself a little.
+<br />
+My name is William. I am a software developer and that's it.
+<br />
+Just like any other usual software developers.
+
+### The following are the usual ways to contact me:
 
 <!--
 **williamtobing/williamtobing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
