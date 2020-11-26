@@ -8,11 +8,17 @@ My name is William. I am a software developer and that's it.
 <br />
 Just like any other usual software developers.
 
-### The following are the usual ways to connect with me:
+### Following are usual ways to connect with me:
 
 [<img align="left" alt="williamtobing | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="williamtobing | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="williamtobing | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+<br />
+
+### Languages and tools I usually use:
+
+
 
 
 <!-- Definition -->
