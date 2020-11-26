@@ -15,8 +15,10 @@ Just like any other usual software developers.
 [<img align="left" alt="williamtobing | Website" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
+<br />
 
 ### Languages and tools I usually use:
+
 <img align="left" alt="html5" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 <img align="left" alt="css3" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
 <img align="left" alt="bootstrap" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
