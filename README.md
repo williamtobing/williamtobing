@@ -1,6 +1,6 @@
-## Hi there, this just a regular repo. So, welcome to my usual repo.
+## Hi there, this just a regular repository. So, welcome to my usual repo.
 
-[![W|Site](https://res.cloudinary.com/dox0nkwax/image/upload/v1606375628/williamsl.tech_hzgblu.png)](https://williamsl.tech/)
+[![williamsl.tech](https://res.cloudinary.com/dox0nkwax/image/upload/v1606375628/williamsl.tech_hzgblu.png)](https://williamsl.tech/)
 
 And by the way, let me introduce myself a little.
 <br />
@@ -10,17 +10,10 @@ Just like any other usual software developers.
 
 ### The following are the usual ways to contact me:
 
+[<img align="left" alt="williamtobing | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
 <!--
 **williamtobing/williamtobing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://www.linkedin.com/in/williamtobing/
