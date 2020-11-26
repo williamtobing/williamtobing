@@ -30,11 +30,9 @@ Just like any other usual software developers.
 
 #### Last but not least, here is a number of extraordinary visitors to my repository:
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=williamtobing.williamtobing)
-<br />
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=williamtobing.williamtobing) <br />
 But amounts mediocre. Okay I think that's all.
-
-#### Stay healthy, stay safe, stay on the right side.
+Stay healthy, stay safe, stay on the right side.
 
 
 <!-- Definition -->
