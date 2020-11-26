@@ -26,6 +26,15 @@ Just like any other usual software developers.
 <img align="left" alt="visualstudiocode" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 <img align="left" alt="jetbrains" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg" />
 
+<br />
+
+#### Last but not least, here is a number of extraordinary visitors to my repository:
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=williamtobing.williamtobing)
+<br />
+But amounts mediocre. Okay I think that's all.
+
+#### Stay healthy, stay safe, stay on the right side.
 
 
 <!-- Definition -->
