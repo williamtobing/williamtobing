@@ -1,8 +1,6 @@
+### Hi there, this just a regular repo. So, welcome to my usual repo.
 
-
-<img alt="HTML5" width="26px" src="https://res.cloudinary.com/dox0nkwax/image/upload/v1589792744/portfolio_icon_xiv1eb.png" /> William SL Tech
-
-# [williamsl.tech](https://williamsl.tech/)
+[![W|Site](https://res.cloudinary.com/dox0nkwax/image/upload/v1606375054/williamsl.tech_apofq9.png)](https://williamsl.tech/)
 
 <!--
 **williamtobing/williamtobing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
