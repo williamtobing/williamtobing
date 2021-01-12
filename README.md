@@ -1,6 +1,6 @@
 ## Hi there, this just a regular repository. So, welcome to my usual repo.
 
-[![williamsl.tech](https://res.cloudinary.com/dox0nkwax/image/upload/v1606375628/williamsl.tech_hzgblu.png)](https://williamsl.tech/)
+[![williamsl.tech](https://res.cloudinary.com/dox0nkwax/image/upload/v1610459980/williamsl.tech-removebg-preview_ikicka.png)](https://williamsl.tech/)
 
 And by the way, let me introduce myself a little.
 <br />
