@@ -1,4 +1,4 @@
-## Hi there, this just a regular repository. So, welcome to my usual repo.
+## Hi there, this just a regular repository. Welcome to my usual repo.
 
 [![williamsl.tech](https://res.cloudinary.com/dox0nkwax/image/upload/v1610459980/williamsl.tech-removebg-preview_ikicka.png)](https://williamsl.tech/)
 
