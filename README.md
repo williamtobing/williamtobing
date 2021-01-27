@@ -16,19 +16,6 @@ Just like any other usual software developers.
 
 <br />
 
-#### Languages and tools I usually use:
-
-<img align="left" alt="html5" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img align="left" alt="css3" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img align="left" alt="bootstrap" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
-<img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img align="left" alt="react" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
-<img align="left" alt="node-dot-js" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
-<img align="left" alt="visualstudiocode" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
-<img align="left" alt="jetbrains" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg" />
-
-<br />
-
 #### Last but not least, here is a number of extraordinary visitors to my repository:
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=williamtobing.williamtobing) 
