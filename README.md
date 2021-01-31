@@ -10,9 +10,9 @@ Just like any other usual software developers.
 
 #### Following are usual ways to connect with me:
 
-[<img align="left" alt="williamtobing | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="williamtobing | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="williamtobing | Website" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="williamtobing | LinkedIn" width="25px" src="https://res.cloudinary.com/dox0nkwax/image/upload/v1612064107/README.md%20svg/linkedin_s64hlu.svg" />][linkedin]
+[<img align="left" alt="williamtobing | Instagram" width="25px" src="https://res.cloudinary.com/dox0nkwax/image/upload/v1612064107/README.md%20svg/instagram_sxjj53.svg" />][instagram]
+[<img align="left" alt="williamtobing | Website" width="25px" src="https://res.cloudinary.com/dox0nkwax/image/upload/v1612064190/README.md%20svg/world-wide-web_lwlcqd.svg" />][website]
 
 <br />
 
