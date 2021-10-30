@@ -1,6 +1,6 @@
 ## Hi there, this just a regular repository. Welcome to my usual repo.
 
-[![williamsl.tech](https://res.cloudinary.com/dox0nkwax/image/upload/v1610459980/williamsl.tech-removebg-preview_ikicka.png)](https://williamtobing.github.io/)
+[![williamsl.tech](https://res.cloudinary.com/dox0nkwax/image/upload/v1635607419/logo/Logo_mine_hrz_004_ha00k0.png)](https://williamtobing.com/)
 
 And by the way, let me introduce myself a little.
 <br />
@@ -28,4 +28,4 @@ Stay healthy, stay safe, stay on the right side.
 <!-- Definition -->
 [linkedin]: https://www.linkedin.com/in/williamtobing/
 [instagram]: https://www.instagram.com/william_lumbantobing/
-[website]: https://williamtobing.github.io/
+[website]: https://williamtobing.com/
