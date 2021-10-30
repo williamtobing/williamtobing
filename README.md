@@ -1,4 +1,4 @@
-## Hi there, this just a regular repository. Welcome to my usual repo.
+## Hi there, this just a regular repository. Welcome!
 
 [![williamsl.tech](https://res.cloudinary.com/dox0nkwax/image/upload/v1635607419/logo/Logo_mine_hrz_004_ha00k0.png)](https://williamtobing.com/)
 
