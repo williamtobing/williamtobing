@@ -1,6 +1,6 @@
 ## Hi there, this just a regular repository. Welcome!
 
-[![williamsl.tech](https://res.cloudinary.com/dox0nkwax/image/upload/v1635607419/logo/Logo_mine_hrz_004_ha00k0.png)](https://williamtobing.com/)
+[![williamsl.tech](https://res.cloudinary.com/dox0nkwax/image/upload/v1636079453/logo/Logo_mine_hrz_005_wtjmrv.png)](https://williamtobing.com/)
 
 And by the way, let me introduce myself a little.
 <br />
