@@ -1,4 +1,4 @@
-### Hi there, this just a regular repository. Welcome!
+### Hi there, this is just a regular repository. Welcome!
 <!-- [![williamtobing.com](https://res.cloudinary.com/dox0nkwax/image/upload/v1636079453/logo/Logo_mine_hrz_005_wtjmrv.png)](https://williamtobing.com/) -->
 # [williamtobing.com](https://williamtobing.com/)
 
