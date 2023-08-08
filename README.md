@@ -4,9 +4,7 @@
 
 And by the way, let me introduce myself a little.
 <br />
-My name is William. I am a software developer and that's it.
-<br />
-Just like any other usual software developers.
+My name is William. I am a software engineer and that's it.
 
 #### Following are usual ways to connect with me:
 
