@@ -24,5 +24,5 @@ Stay healthy, stay safe, stay on the right side.
 
 <!-- Definition -->
 [linkedin]: https://www.linkedin.com/in/williamtobing/
-[website]: https://williamtobing-next-adaptive.vercel.app/
+[website]: https://williamtobing.vercel.app/
 [mail]: mailto:william.sl.tobing@gmail.com
